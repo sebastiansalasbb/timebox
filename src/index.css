@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(33, 37, 41);
+}
+
+input {
+  border: none;
+  background-color: transparent;
+  color: #FFF;
+  width: 100%;
+}
+
+input:focus-visible {
+  outline: none;
+}
+
+textarea {
+  background-color: rgb(45, 51, 56);
+  color: #FFF;
+  border: none;
+  padding: 0.5rem;
+  width: 100%;
+
+}
+
+textarea:focus-visible {
+  outline: none;
+}
